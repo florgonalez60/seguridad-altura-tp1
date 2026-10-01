@@ -11,4 +11,4 @@ Análisis de accidentes en trabajos de altura y espacios confinados en la provin
 - Decreto 351/79 y Decreto 911/96
 
 Link del Archivo
-https://app.netlify.com/projects/seguridad-altura-tp1/
+https://seguridad-altura-tp1.netlify.app
